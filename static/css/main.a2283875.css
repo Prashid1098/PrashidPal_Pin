@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}form{margin:2vh 0 0 2vw}label{font-size:25px;font-weight:900}.pincode{border:2px solid;height:5.1vh;width:95vw}.pincode,button{border-radius:5px;margin-top:2vh}button{background-color:#000;color:#fff;font-size:15px;padding:1.2vh 4.5vw}button:hover{cursor:pointer}::placeholder{font-size:15px;padding-left:1vw}.AddPin{display:grid;grid-template-columns:repeat(2,1fr);margin:2vw}span{font-weight:700}.pin-item{border:2px solid;font-size:20px;margin:10px}.pin-item div{padding:8px}
+/*# sourceMappingURL=main.a2283875.css.map*/
