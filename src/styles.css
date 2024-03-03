@@ -1,0 +1,61 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form
+{
+    margin: 2vh 0vw 0vh 2vw;
+}
+label
+{
+    font-size: 25px;
+    font-weight: 900;
+}
+.pincode
+{
+    width: 95vw;
+    height: 5.1vh;
+    border: 2px solid;
+    margin-top: 2vh;
+    border-radius: 5px;
+}
+button
+{
+    padding: 1.2vh 4.5vw;
+    background-color: #000000;
+    color: #FFFFFF;
+    border-radius: 5px;
+    margin-top: 2vh;
+    font-size: 15px;
+}
+button:hover
+{
+    cursor: pointer;
+}
+::placeholder
+{
+    font-size: 15px;
+    padding-left: 1vw;
+}
+.AddPin
+{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 2vw;
+}
+span
+{
+    font-weight: bold;
+}
+.pin-item
+{
+    border: 2px solid;
+    margin: 10px;
+    font-size: 20px;
+}
+.pin-item div
+{
+    padding: 8px;
+}
